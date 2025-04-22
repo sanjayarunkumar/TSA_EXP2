@@ -16,7 +16,7 @@ Calculate the polynomial trend values using least square method
 
 End the program
 ### PROGRAM:
-
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -62,7 +62,7 @@ plt.ylabel('Power Consumption Zone 1 (kW)')
 plt.legend()
 plt.grid(True)
 plt.show()
-
+```
 ### OUTPUT
 
 A - LINEAR TREND ESTIMATION
